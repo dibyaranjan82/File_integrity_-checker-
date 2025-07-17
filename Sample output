@@ -1,0 +1,9 @@
+Enter the directory to scan: test_directory
+
+--- FILE INTEGRITY CHECK ---
+[MODIFIED] File changed: test_directory/file2.txt
+[NEW] File added: test_directory/file3.txt
+[DELETED] File removed: test_directory/file4.txt
+
+Update hash records with current state? (y/n): y
+Hash records updated.
